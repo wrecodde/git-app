@@ -1,2 +1,3 @@
-*/__pycache__/
+gitapp/__pycache__/
 main/__pycache__/
+main/migrations/__pycache__/
